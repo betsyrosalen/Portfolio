@@ -5,7 +5,7 @@
 - [CUNY Student Data Book](https://insights.cuny.edu/#/site/CUNYGuest/views/StudentDataBook/Enrollment) -
 This project was created for CUNY to replace the static pdf reports they used to publish on the OAREDA website (when it was still OIRA). It was meant to replace existing tables of data so there aren’t many graphs or charts in it, but you can change the tables using the parameters on the right side to get almost any breakdown or sub-population that you are interested in. There are 14 tabs at the top for 3 main groups of data: enrollment, degrees granted, and retention and graduation.
 
-- [Tableau Public](https://public.tableau.com/app/profile/elizabeth.rosalen) - All three projects completed for DATA 73000 Visualization and Design at CUNY Graduate Center can be found on my Tableau Public profile. They are best viewed on a computer in full screen. I may add mobile versions in the future, but they are not done as of now. More information about the design process for the final project, Exoplanets, can be found in the [Exoplanets Whitepaper](https://github.com/betsyrosalen/Portfolio/blob/main/Final_Project_White_Paper.pdf).
+- [Tableau Public](https://public.tableau.com/app/profile/elizabeth.rosalen) - All three projects completed for DATA 73000 Visualization and Design at CUNY Graduate Center can be found on my Tableau Public profile. They are best viewed on a computer in full screen (click the button in the bottom right corner of the visualization). I may add mobile versions in the future, but they are not done as of now. More information about the design process for the final project, Exoplanets, can be found in the [Exoplanets Whitepaper](https://github.com/betsyrosalen/Portfolio/blob/main/Final_Project_White_Paper.pdf).
 
 
 ## Shiny Apps
